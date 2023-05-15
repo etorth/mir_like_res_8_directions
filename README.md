@@ -1,0 +1,2 @@
+# mir_like_res_8_directions
+Q175传奇角色怪物特效序列8方向资源
